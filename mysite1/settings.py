@@ -1,3 +1,4 @@
+
 """
 Django settings for mysite1 project.
 
@@ -117,3 +118,4 @@ STATIC_URL = "static/"
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+STATIC_ROOT = '/LAB8/mysite1/mysite1/wwwroot/staticfiles'
